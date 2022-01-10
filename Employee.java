@@ -6,3 +6,7 @@ String ename;
 {
  System.out.println("hi")
 }
+ public void print()
+ {
+  System.out.println("welcome");
+ }
